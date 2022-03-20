@@ -1,0 +1,4 @@
+you need to install those below modules :
+
+pip install Pillow
+pip install qrcode
